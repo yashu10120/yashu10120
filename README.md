@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 🎓 Aspiring Full-Stack Developer | UI/UX Designer  
-🌱 Currently building a magical portfolio with Django, React, and glowing CSS effects  
+🌱 Currently building a magical portfolio with Django, Mongodb, and glowing CSS effects  
 🎯 Passionate about elegant design, responsive layouts, and interactive user experiences  
-💬 Ask me about: Python, JavaScript, React, Django, CSS animations, and creative web flows  
+💬 Ask me about: Python, JavaScript, Mongodb, Django, CSS animations, and creative web flows  
 
 ---
 
