@@ -30,6 +30,5 @@
 ---
 
 ## 📊 GitHub Stats:
-![Yashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashu10120&show_icons=true&theme=tokyonight)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashu10120&theme=tokyo-night&area=true&hide_border=true)
 
